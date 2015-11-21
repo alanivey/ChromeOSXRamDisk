@@ -21,6 +21,3 @@ Uninstall
   - `rm /usr/local/bin/ChromeRamDisk.sh`
   - `launchctl unload -w ~/Library/LaunchAgents/com.alanthing.ChromeRamDisk.plist`
   - `rm ~/Library/LaunchAgents/com.alanthing.ChromeRamDisk.plist`
-
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/dcb35e19520f29ae527d047b0c0da4ee "githalytics.com")](http://githalytics.com/alanthing/ChromeOSXRamDisk)
